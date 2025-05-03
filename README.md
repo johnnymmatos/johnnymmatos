@@ -2,12 +2,6 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=johnnymmatos&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=1&theme=radical&hide_border=false&custom_title=Seja%20bem%20vindo!" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2Jobmx5cThpYzZ0NGY0cXpudXJlbjYyZmdzeDh4OWVubXg1ZDAwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif"  />
 
 ###
@@ -48,12 +42,15 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/johnnymmatos/johnnymmatos/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/johnnymmatos/count.svg?"  />
 </div>
 
 ###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/johnnymmatos/johnnymmatos/output/snake.svg" alt="Snake animation" />
+
+###
+
